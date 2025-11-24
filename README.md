@@ -73,7 +73,7 @@ A complete multi-tenant SaaS platform for generating AI-powered videos from text
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-video-generator.git
+git clone https://github.com/ahmedsaadawi13/ai-video-generator.git
 cd ai-video-generator
 ```
 
